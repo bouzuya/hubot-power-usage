@@ -2,6 +2,8 @@
 
 A Hubot script that show power usage
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20141010/20141010000948.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-power-usage.git
